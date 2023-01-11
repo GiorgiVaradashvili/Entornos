@@ -12,10 +12,8 @@ import java.util.Scanner;
  * @author admin
  */
 public class Entornos {
-    
-    
-    //dshbcsdjhsfbyh
 
+    //dshbcsdjhsfbyh
     public static boolean Pitagoras(int x, int y, int z) {
         boolean iguales = false;
 
