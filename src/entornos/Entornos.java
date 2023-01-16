@@ -21,7 +21,7 @@ public class Entornos {
 
         return iguales;
     }
-
+//dhfywehfhwfhweyfuyewgfyewfruwgfui
     public static void main(String[] args) throws IOException {
         Scanner entrada = new Scanner(System.in);
         int x, y, z;
